@@ -1,0 +1,26 @@
+canvas
+{
+    border: 3px;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px gray;
+    background-color: rgb(255, 185, 55);
+    margin-top: 100px;
+}
+
+img
+{
+    border-radius: 100%;
+    width: 100px;
+    height: 100px;
+}
+
+.takeSnapshot
+{
+    font-size: 20px;
+    margin-top: 600px;
+}
+
+.boo
+{
+    margin-top: 600px;
+}
